@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np 
- 
-import matplotlib.pyplot as plt
 
 st.title('2022년도 지하철 월별 하차 인원 🛤️')
 
